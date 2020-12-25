@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LibertyCola)](https://github.com/anuraghazra/github-readme-stats)     ![AUTO_TASK_FOR_BILIBILI](https://github.com/LibertyCola/BILIBILI-HELPER/workflows/AUTO_TASK_FOR_BILIBILI/badge.svg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LibertyCola)](https://github.com/anuraghazra/github-readme-stats)     
+-   ![AUTO_TASK_FOR_BILIBILI](https://github.com/LibertyCola/BILIBILI-HELPER/workflows/AUTO_TASK_FOR_BILIBILI/badge.svg)
+-   ![EUserv Auto Extend](https://github.com/LibertyCola/EUserv_extend/workflows/EUserv%20Auto%20Extend/badge.svg)
 
